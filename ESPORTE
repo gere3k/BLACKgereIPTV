@@ -1,75 +1,170 @@
 #EXTM3U
-#EXTINF:-1 ,SPORTV 4K
-http://tv.factoryiptv.com:80/987654/987654/40785
-#EXTINF:-1 ,SporTV HD
-http://tv.factoryiptv.com:80/987654/987654/37255
-#EXTINF:-1 ,SporTV 2
-http://tv.factoryiptv.com:80/987654/987654/37044
-#EXTINF:-1 ,SporTV 2 HD
-http://tv.factoryiptv.com:80/987654/987654/36943
-#EXTINF:-1 ,SporTV 3
-http://tv.factoryiptv.com:80/987654/987654/37006
-#EXTINF:-1 ,SporTV 3 HD
-http://tv.factoryiptv.com:80/987654/987654/36942
-#EXTINF:-1 ,ESPN
-http://tv.factoryiptv.com:80/987654/987654/37105
-#EXTINF:-1 ,ESPN 2 HD
-http://tv.factoryiptv.com:80/987654/987654/36976
-#EXTINF:-1 ,ESPN Brasil
-http://tv.factoryiptv.com:80/987654/987654/37104
-#EXTINF:-1 ,ESPN Brasil HD
-http://tv.factoryiptv.com:80/987654/987654/36978
-#EXTINF:-1 ,ESPN Extra
-http://tv.factoryiptv.com:80/987654/987654/41977
-#EXTINF:-1 ,ESPN Extra HD
-http://tv.factoryiptv.com:80/987654/987654/42910
-#EXTINF:-1 ,ESPN HD
-http://tv.factoryiptv.com:80/987654/987654/36977
-#EXTINF:-1 ,FOX SPORTS HD
-http://tv.factoryiptv.com:80/987654/987654/50755
-#EXTINF:-1 ,FOX SPORTS SD
-http://tv.factoryiptv.com:80/987654/987654/50756
-#EXTINF:-1 ,FOX SPORTS 2
-http://tv.factoryiptv.com:80/987654/987654/50545
-#EXTINF:-1 ,FOX SPORTS 2 SD
-http://tv.factoryiptv.com:80/987654/987654/50754
-#EXTINF:-1 ,BAND SPORTS
-http://tv.factoryiptv.com:80/987654/987654/50613
-#EXTINF:-1 ,BAND SPORTS HD
-http://tv.factoryiptv.com:80/987654/987654/50612
-#EXTINF:-1 ,BAND SPORTS HD [Alternativo]
-http://tv.factoryiptv.com:80/987654/987654/50656
-#EXTINF:-1 ,PREMIERE CLUBES 4K
-http://tv.factoryiptv.com:80/987654/987654/40783
-#EXTINF:-1 ,Premiere Clubes HD
-http://tv.factoryiptv.com:80/987654/987654/36948
-#EXTINF:-1 ,PREMIERE CLUBES
-http://tv.factoryiptv.com:80/987654/987654/37016
-#EXTINF:-1 ,Premiere 2
-http://tv.factoryiptv.com:80/987654/987654/37060
-#EXTINF:-1 ,Premiere 2 HD
-http://tv.factoryiptv.com:80/987654/987654/36952
-#EXTINF:-1 ,Premiere 3
-http://tv.factoryiptv.com:80/987654/987654/37059
-#EXTINF:-1 ,Premiere 3 HD
-http://tv.factoryiptv.com:80/987654/987654/36951
-#EXTINF:-1 ,Premiere 4
-http://tv.factoryiptv.com:80/987654/987654/37058
-#EXTINF:-1 ,Premiere 4 HD
-http://tv.factoryiptv.com:80/987654/987654/36950
-#EXTINF:-1 ,Premiere 5
-http://tv.factoryiptv.com:80/987654/987654/37057
-#EXTINF:-1 ,Premiere 5 HD
-http://tv.factoryiptv.com:80/987654/987654/36949
-#EXTINF:-1 ,Premiere 6
-http://tv.factoryiptv.com:80/987654/987654/37056
-#EXTINF:-1 ,Premiere 6 HD
-http://tv.factoryiptv.com:80/987654/987654/36906
-#EXTINF:-1 ,Premiere 7
-http://tv.factoryiptv.com:80/987654/987654/37017
-#EXTINF:-1 ,Premiere 7 HD
-http://tv.factoryiptv.com:80/987654/987654/36905
-#EXTINF:-1 ,COMBATE H265
-http://tv.factoryiptv.com:80/987654/987654/50536
-#EXTINF:-1 ,COMBATE HD
-http://tv.factoryiptv.com:80/987654/987654/50672
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="FUTEBOL AO VIVO" ,🇵🇹 CHAMPIONS LEAGUE 1 FHD🇵🇹
+http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/225.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="FUTEBOL AO VIVO" ,🇵🇹 CHAMPIONS LEAGUE 1 HD🇵🇹
+http://fast.iptvhdstream.xyz:25461/mousanew/2342343/21819
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="FUTEBOL AO VIVO" ,🇵🇹 CHAMPIONS LEAGUE 2 FHD🇵🇹
+http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/226.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="FUTEBOL AO VIVO" ,🇵🇹 CHAMPIONS LEAGUE 2 HD🇵🇹
+http://fast.iptvhdstream.xyz:25461/mousanew/2342343/21816
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="FUTEBOL AO VIVO" ,🇵🇹 CHAMPIONS LEAGUE 3 FHD🇵🇹
+http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/227.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="FUTEBOL AO VIVO" ,🇵🇹 CHAMPIONS LEAGUE 3 HD🇵🇹
+http://fast.iptvhdstream.xyz:25461/mousanew/2342343/21814
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="FUTEBOL AO VIVO" ,🇵🇹 CHAMPIONS LEAGUE 4 FHD🇵🇹
+http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/228.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="FUTEBOL AO VIVO" ,🇵🇹 CHAMPIONS LEAGUE 4 HD🇵🇹
+http://fast.iptvhdstream.xyz:25461/mousanew/2342343/21811
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="FUTEBOL AO VIVO" ,🇵🇹 CHAMPIONS LEAGUE 5 FHD🇵🇹
+http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/229.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="FUTEBOL AO VIVO" ,🇵🇹 CHAMPIONS LEAGUE 5 HD🇵🇹
+http://fast.iptvhdstream.xyz:25461/mousanew/2342343/21810
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="FUTEBOL AO VIVO" ,🇵🇹 CHAMPIONS LEAGUE 6 FHD🇵🇹
+http://iptv4.premium-stv.com:8000/live/PORTUGALPRO2/gv8XyLDN8b/230.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="FUTEBOL AO VIVO" ,🇵🇹 CHAMPIONS LEAGUE 6 HD🇵🇹
+http://fast.iptvhdstream.xyz:25461/mousanew/2342343/21809
+
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES GLOBOSAT",🇧🇷COMBATE HD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3860
+
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES GLOBOSAT",🇧🇷COMBATE SD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3736
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES GLOBOSAT",🇧🇷SPORTV HD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3879
+ 
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES GLOBOSAT",🇧🇷SPORTV SD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3746
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES GLOBOSAT",🇧🇷SPORTV 2 HD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3877
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES GLOBOSAT",🇧🇷SPORTV 2 SD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3744 
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES GLOBOSAT",🇧🇷SPORTV 3 HD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3878
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES GLOBOSAT",🇧🇷SPORTV 3 SD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3745
+
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES GLOBOSAT",🇧🇷OFF HD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3880
+
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES GLOBOSAT",🇧🇷OFF SD🇧🇷 http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3747
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE 1 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE CLUBES HD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3876
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE 1 SD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE CLUBES SD🇧🇷
+http://tvnanet.xyz:25461/palestra2021/verdao2021/199
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE 2 HD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3869
+
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE 3 HD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3870
+
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE 4 HD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3871
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE 5 HD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3872
+ 
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE 6 HD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3873
+
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE 7 HD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3874
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="PREMIERE FUTEBOL",🇧🇷PREMIERE 7 HD🇧🇷
+http://epro.webhop.biz:25461/live/intercambiomilatinos/intercambiomilatinos/8323.ts
+
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷BAND SPORTS HD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3859
+
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷BAND SPORTS SD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3735
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷DAZN BR HD🇧🇷
+http://tvnanet.xyz:25461/palestra2021/verdao2021/41
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES" ,🇧🇷ESPN BRASIL FHD🇧🇷
+http://tvnanet.xyz:25461/palestra2021/verdao2021/281
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷ESPN BRASIL HD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3864
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷ESPN BRASIL SD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3738
+
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷ESPN HD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3866
+
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷ESPN SD🇧🇷
+http://tvnanet.xyz:25461/palestra2021/verdao2021/70
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷ESPN2 HD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3863
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2 SD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷ESPN2 SD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3740
+
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷ESPN EXTRA HD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3865
+
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷ESPN EXTRA SD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3739
+
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM FHD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷FOX PREMIUM 1 FHD "LALIGA"🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3986
+
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷FOX PREMIUM 1 HD "LALIGA"🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3487
+
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM SD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷FOX PREMIUM 1 SD "LALIGA"🇧🇷
+http://tvnanet.xyz:25461/palestra2021/verdao2021/83
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷FOX SPORTS HD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3868
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷FOX SPORTS SD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3743
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷FOX SPORTS 2 HD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3867
+
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷FOX SPORTS 2 SD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3742
+
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷FISH TV HD🇧🇷
+http://tvnanet.xyz:25461/palestra2021/verdao2021/75
+
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷FISH TV SD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3741
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷SPACE HD (CHAMPIONS LEAGUE)🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3501
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷SPACE SD (CHAMPIONS LEAGUE)🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3769
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷TNT FHD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/4008
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷TNT HD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3512
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/epbBP6U.jpg" group-title="ESPORTES",🇧🇷TNT SD🇧🇷
+http://qtvplay.xyz:25461/DubFAg8CAW57cxyDUn/eWjhawH4u2St5JJMAq/3780
